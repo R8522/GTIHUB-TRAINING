@@ -11,6 +11,7 @@ int main(){
     //style 1
     int zulaikaWeight = 50;
     printf("this is zulaika weight %d", zulaikaWeight);
+    return 0;
 
     //style 2
     int zulaikaHeight = 162;
